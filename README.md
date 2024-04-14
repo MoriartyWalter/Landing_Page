@@ -1,2 +1,3 @@
-# Landing_Page
-Using Tailwind CSS
+# Landing Page
+
+# With Vite + TailwindCSS
